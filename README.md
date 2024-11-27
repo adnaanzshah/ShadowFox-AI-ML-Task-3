@@ -37,3 +37,5 @@ This project delves into the capabilities of state-of-the-art Language Models (G
 - Demonstrates LM performance in text generation, summarization, and translation.
 - Visualizes model outputs and response metrics.
 - Addresses key research questions on LM strengths and limitations.
+
+![Response Lengths Plot](output.png)
